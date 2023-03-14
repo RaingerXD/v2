@@ -57,12 +57,12 @@
             "description": "Id grup untuk log",
             "value": "",
             "required": false
-        }
-    },
+        },
+    }
     "formation": {
         "worker": {
             "quantity": 1,
             "size": "eco"
-        }
+        },
     }
 }
