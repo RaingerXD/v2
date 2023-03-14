@@ -13,12 +13,10 @@
         "API_ID": {
             "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
             "value": ""
-            "required": true
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
             "value": ""
-            "required": true
         },
         "SESSION": {
             "description": "Session String for your telegram user account. The userbot will NOT work without a session string!!",
@@ -34,37 +32,37 @@
         },
         "HEROKU_APP_NAME": {
             "description": "Nama buat heroku",
-            "value": ""
+            "value": "",
             "required": false
         },
         "HEROKU_API": {
             "description": "Ambil api heroku",
-            "value": ""
+            "value": "",
             "required": false
         },
         "BOT_TOKEN": {
             "description": "Token dari botfather",
-            "value": ""
+            "value": "",
             "required": false
         },
         "LOG_CHANNEL": {
             "description": "Id grup untuk log",
-            "value": ""
+            "value": "",
             "required": false
         },
         "VCBOT": {
             "description": "Vc bot untuk memutar musik",
-            "value": ""
+            "value": "",
             "required": false
         },
         "VC_SESSION": {
             "description": "Id grup untuk log",
-            "value": ""
+            "value": "",
             "required": false
         },
         "LOG_CHANNEL": {
             "description": "Id grup untuk log",
-            "value": ""
+            "value": "",
             "required": false
         },
         "HEROKU_API": {
