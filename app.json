@@ -50,16 +50,6 @@
             "value": "",
             "required": false
         },
-        "VCBOT": {
-            "description": "Vc bot untuk memutar musik",
-            "value": "",
-            "required": false
-        },
-        "VC_SESSION": {
-            "description": "Id grup untuk log",
-            "value": "",
-            "required": false
-        },
         "LOG_CHANNEL": {
             "description": "Id grup untuk log",
             "value": "",
